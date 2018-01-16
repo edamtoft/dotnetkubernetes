@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sampleapp
-        image: edamtoft/dockersample:latest
+        image: edamtoft/dockersample:0.0.1
         ports:
         - containerPort: 80
